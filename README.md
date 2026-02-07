@@ -19,3 +19,4 @@ electric aircraft performance, leading to operational strategy and data manageme
 - src/: reusable analysis and logging code
 - notebooks/: exploratory analysis and interpretation
 - examples/: example logs and reports
+
